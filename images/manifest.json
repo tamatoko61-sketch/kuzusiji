@@ -88,6 +88,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://tamatoko61-sketch.github.io/kuzusiji/images/IMG0843050/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "IMG0843050"
+                ]
+            },
+            "height": 1926,
+            "width": 1362,
+            "items": [
+                {
+                    "id": "https://tamatoko61-sketch.github.io/kuzusiji/images/IMG0843050/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tamatoko61-sketch.github.io/kuzusiji/images/IMG0843050/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tamatoko61-sketch.github.io/kuzusiji/images/IMG0843050/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 43,
+                                                "height": 61
+                                            },
+                                            {
+                                                "width": 86,
+                                                "height": 121
+                                            },
+                                            {
+                                                "width": 171,
+                                                "height": 241
+                                            },
+                                            {
+                                                "width": 341,
+                                                "height": 482
+                                            },
+                                            {
+                                                "width": 681,
+                                                "height": 963
+                                            },
+                                            {
+                                                "width": 1362,
+                                                "height": 1926
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 1362,
+                                        "id": "https://tamatoko61-sketch.github.io/kuzusiji/images/IMG0843050",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1926
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tamatoko61-sketch.github.io/kuzusiji/images/IMG0843050/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
