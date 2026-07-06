@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 86,
+    "height" : 121
+  }, {
+    "width" : 171,
+    "height" : 241
+  }, {
+    "width" : 341,
+    "height" : 482
+  }, {
+    "width" : 681,
+    "height" : 963
+  }, {
+    "width" : 1362,
+    "height" : 1926
+  }, {
+    "width" : 2724,
+    "height" : 3851
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2724,
+  "@id" : "https://tamatoko61-sketch.github.io/kuzusiji/images/IMG0843",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3851
+}
