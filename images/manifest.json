@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tamatoko61-sketch.github.io/kuzusiji/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in tamatoko61-sketch/kuzusiji project"
+        ]
+    },
+    "items": []
+}
